@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mac Dylan Philippe Balagtas",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
